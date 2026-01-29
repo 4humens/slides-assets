@@ -1,0 +1,46 @@
+{
+  "project": "publicis-champions-ia-2026",
+  "version": "v1.0.0",
+  "created": "2026-01-29",
+  "assets": [
+    {
+      "id": "screenshot-perplexity-recherche-ia-hotellerie",
+      "type": "image",
+      "category": "screenshots",
+      "url": "https://raw.githubusercontent.com/4humens/slides-assets/main/projects/publicis-champions-ia-2026/screenshots/screenshot-perplexity-recherche-ia-hotellerie.png",
+      "filename": "screenshot-perplexity-recherche-ia-hotellerie.png",
+      "description": "Capture d'écran d'une recherche Perplexity sur les actualités IA générative dans le secteur de l'hôtellerie (2025-2026). Affiche un tableau synthétique avec tendances opérationnelles, un résumé exécutif contextualisé pour 4humens, et 15 sources qualifiées sur la droite.",
+      "keywords": ["perplexity", "recherche web", "IA générative", "hôtellerie", "sources", "tableau", "analyse sectorielle", "actualités 2026"],
+      "dimensions": {"width": 0, "height": 0},
+      "format": "png",
+      "usage": "Illustrer la démarche de recherche professionnelle avec Perplexity dans le contexte de l'analyse sectorielle IA hôtellerie",
+      "added_date": "2026-01-29"
+    },
+    {
+      "id": "screenshot-chatgpt-redaction-article-ia-hotellerie",
+      "type": "image",
+      "category": "screenshots",
+      "url": "https://raw.githubusercontent.com/4humens/slides-assets/main/projects/publicis-champions-ia-2026/screenshots/screenshot-chatgpt-redaction-article-ia-hotellerie.png",
+      "filename": "screenshot-chatgpt-redaction-article-ia-hotellerie.png",
+      "description": "Capture d'écran ChatGPT montrant la rédaction d'un article structuré sur l'IA générative et l'hôtellerie en 2026, avec introduction développée, sections numérotées, bullet points formatés et texte surlignés pour illustrer les passages clés.",
+      "keywords": ["chatgpt", "rédaction", "article", "IA générative", "hôtellerie", "structure", "contenu stratégique", "écriture"],
+      "dimensions": {"width": 0, "height": 0},
+      "format": "png",
+      "usage": "Démontrer l'utilisation de ChatGPT pour la rédaction d'articles stratégiques structurés avec narration claire et positionnement sectoriel",
+      "added_date": "2026-01-29"
+    },
+    {
+      "id": "screenshot-claude-dashboard-analyse-donnees",
+      "type": "image",
+      "category": "screenshots",
+      "url": "https://raw.githubusercontent.com/4humens/slides-assets/main/projects/publicis-champions-ia-2026/screenshots/screenshot-claude-dashboard-analyse-donnees.png",
+      "filename": "screenshot-claude-dashboard-analyse-donnees.png",
+      "description": "Capture d'écran Claude montrant un dashboard exécutif dark mode avec KPIs commerciaux (CA 1,09M€, marge brute 478K€, taux d'atteinte objectifs 104,2%), graphiques d'évolution temporelle du CA 2023 vs 2024, répartition par catégorie en donut chart, et section anomalies détectées avec insights stratégiques.",
+      "keywords": ["claude", "dashboard", "data viz", "KPI", "analyse", "graphiques", "business intelligence", "dark mode", "data analysis"],
+      "dimensions": {"width": 0, "height": 0},
+      "format": "png",
+      "usage": "Illustrer les capacités d'analyse de données et de data visualisation de Claude pour créer des dashboards exécutifs avec insights stratégiques et détection d'anomalies",
+      "added_date": "2026-01-29"
+    }
+  ]
+}
