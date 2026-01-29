@@ -1,6 +1,6 @@
 {
   "project": "publicis-champions-ia-2026",
-  "version": "v1.3.0",
+  "version": "v1.4.0",
   "created": "2026-01-29",
   "assets": [
     {
@@ -79,6 +79,110 @@
       "dimensions": {"width": 0, "height": 0},
       "format": "png",
       "usage": "Illustrer les capacités de Microsoft Copilot dans Excel pour créer des dashboards analytiques automatisés avec KPIs, tableaux et visualisations de données commerciales",
+      "added_date": "2026-01-29"
+    },
+    {
+      "id": "screenshot-midjourney-v1-grid",
+      "type": "image",
+      "category": "screenshots",
+      "url": "https://raw.githubusercontent.com/4humens/slides-assets/main/projects/publicis-champions-ia-2026/screenshots/screenshot-midjourney-v1-grid.png",
+      "filename": "screenshot-midjourney-v1-grid.png",
+      "description": "Grille de 4 images générées par Midjourney v1 montrant des manifestations climatiques. Qualité basique avec rendu flou, proportions anatomiques approximatives, compositions simples et détails peu définis. Illustre le point de départ de l'évolution technologique de Midjourney avec des artefacts visuels caractéristiques des premières versions.",
+      "keywords": ["midjourney", "v1", "génération image", "évolution IA", "manifestation", "climat", "comparaison", "historique", "qualité basique"],
+      "dimensions": {"width": 0, "height": 0},
+      "format": "png",
+      "usage": "Démontrer l'évolution rapide des capacités de génération d'image IA en montrant le point de départ de Midjourney v1 lors d'une présentation sur la progression technologique",
+      "added_date": "2026-01-29"
+    },
+    {
+      "id": "screenshot-midjourney-v2-grid",
+      "type": "image",
+      "category": "screenshots",
+      "url": "https://raw.githubusercontent.com/4humens/slides-assets/main/projects/publicis-champions-ia-2026/screenshots/screenshot-midjourney-v2-grid.png",
+      "filename": "screenshot-midjourney-v2-grid.png",
+      "description": "Grille de 4 images générées par Midjourney v2 sur le thème des manifestations climatiques. Amélioration notable de la netteté et des compositions par rapport à v1, avec meilleure gestion de l'éclairage atmosphérique, proportions plus cohérentes et début de rendu réaliste dans les textures et fumées.",
+      "keywords": ["midjourney", "v2", "génération image", "évolution IA", "manifestation", "climat", "comparaison", "amélioration qualité"],
+      "dimensions": {"width": 0, "height": 0},
+      "format": "png",
+      "usage": "Illustrer la progression entre v1 et v2 de Midjourney dans une séquence chronologique montrant l'évolution des capacités de génération d'images par IA",
+      "added_date": "2026-01-29"
+    },
+    {
+      "id": "screenshot-midjourney-v3-grid",
+      "type": "image",
+      "category": "screenshots",
+      "url": "https://raw.githubusercontent.com/4humens/slides-assets/main/projects/publicis-champions-ia-2026/screenshots/screenshot-midjourney-v3-grid.png",
+      "filename": "screenshot-midjourney-v3-grid.png",
+      "description": "Grille de 4 images générées par Midjourney v3 représentant des scènes de manifestations climatiques. Qualité significativement améliorée avec détails plus fins, gestion avancée de la lumière naturelle, profondeur de champ, et début de rendu photographique réaliste avec textures crédibles et compositions dynamiques.",
+      "keywords": ["midjourney", "v3", "génération image", "évolution IA", "manifestation", "climat", "photorealistic", "qualité intermédiaire"],
+      "dimensions": {"width": 0, "height": 0},
+      "format": "png",
+      "usage": "Montrer l'étape intermédiaire cruciale vers le photoréalisme dans l'évolution de Midjourney lors de formations sur la génération d'images par IA",
+      "added_date": "2026-01-29"
+    },
+    {
+      "id": "screenshot-midjourney-v4-grid",
+      "type": "image",
+      "category": "screenshots",
+      "url": "https://raw.githubusercontent.com/4humens/slides-assets/main/projects/publicis-champions-ia-2026/screenshots/screenshot-midjourney-v4-grid.png",
+      "filename": "screenshot-midjourney-v4-grid.png",
+      "description": "Grille de 4 images générées par Midjourney v4 avec scènes de manifestations climatiques. Qualité photographique avancée avec portraits détaillés, expressions faciales réalistes, grain photo authentique, gestion complexe de l'éclairage naturel et compositions cinématographiques. Représente un saut qualitatif majeur vers le photoréalisme.",
+      "keywords": ["midjourney", "v4", "génération image", "photoréalisme", "manifestation", "portraits", "qualité photographique", "IA générative"],
+      "dimensions": {"width": 0, "height": 0},
+      "format": "png",
+      "usage": "Démontrer l'atteinte du photoréalisme convaincant avec Midjourney v4 dans une présentation comparative sur l'évolution technologique rapide de l'IA générative",
+      "added_date": "2026-01-29"
+    },
+    {
+      "id": "screenshot-midjourney-v5-grid",
+      "type": "image",
+      "category": "screenshots",
+      "url": "https://raw.githubusercontent.com/4humens/slides-assets/main/projects/publicis-champions-ia-2026/screenshots/screenshot-midjourney-v5-grid.png",
+      "filename": "screenshot-midjourney-v5-grid.png",
+      "description": "Grille de 4 portraits générés par Midjourney v5 montrant des manifestants climatiques. Ultra-réalisme avec détails photographiques exceptionnels, textures de peau authentiques, expressions émotionnelles subtiles, diversité humaine crédible, et profondeur de champ cinématographique. Qualité quasi-indiscernable de photos réelles.",
+      "keywords": ["midjourney", "v5", "génération image", "ultra-réalisme", "portraits", "manifestation", "photoréalisme avancé", "détails photographiques"],
+      "dimensions": {"width": 0, "height": 0},
+      "format": "png",
+      "usage": "Illustrer le niveau d'ultra-réalisme atteint par Midjourney v5 dans la génération de portraits humains lors de démonstrations sur les capacités actuelles de l'IA générative",
+      "added_date": "2026-01-29"
+    },
+    {
+      "id": "screenshot-midjourney-v6-grid",
+      "type": "image",
+      "category": "screenshots",
+      "url": "https://raw.githubusercontent.com/4humens/slides-assets/main/projects/publicis-champions-ia-2026/screenshots/screenshot-midjourney-v6-grid.png",
+      "filename": "screenshot-midjourney-v6-grid.png",
+      "description": "Grille de 4 images générées par Midjourney v6 représentant des manifestants en action. Qualité cinématographique avec dynamisme des mouvements, gestion avancée du flou de mouvement, rendu atmosphérique complexe (fumées, lumières dorées), compositions narratives fortes et cohérence stylistique professionnelle. Représente l'état de l'art actuel.",
+      "keywords": ["midjourney", "v6", "génération image", "cinématographique", "manifestation", "action", "état de l'art", "qualité professionnelle"],
+      "dimensions": {"width": 0, "height": 0},
+      "format": "png",
+      "usage": "Montrer l'état de l'art actuel de Midjourney v6 avec rendu cinématographique et narratif lors de présentations sur les capacités ultimes de génération d'images par IA",
+      "added_date": "2026-01-29"
+    },
+    {
+      "id": "screenshot-midjourney-v1-single",
+      "type": "image",
+      "category": "screenshots",
+      "url": "https://raw.githubusercontent.com/4humens/slides-assets/main/projects/publicis-champions-ia-2026/screenshots/screenshot-midjourney-v1-single.png",
+      "filename": "screenshot-midjourney-v1-single.png",
+      "description": "Image unique extraite de la grille Midjourney v1 montrant un manifestant au bras démesurément étiré tenant un arbre enflammé. Illustre parfaitement les artefacts et aberrations anatomiques caractéristiques des premières versions de génération d'images par IA, avec proportions irréalistes et physique impossible.",
+      "keywords": ["midjourney", "v1", "artefact", "anatomie", "aberration", "génération image", "qualité basique", "exemple limite"],
+      "dimensions": {"width": 0, "height": 0},
+      "format": "png",
+      "usage": "Utiliser comme exemple frappant des limites initiales de l'IA générative lors de comparaisons avant/après avec v6 pour illustrer la rapidité des progrès technologiques",
+      "added_date": "2026-01-29"
+    },
+    {
+      "id": "screenshot-midjourney-v6-single-comparison",
+      "type": "image",
+      "category": "screenshots",
+      "url": "https://raw.githubusercontent.com/4humens/slides-assets/main/projects/publicis-champions-ia-2026/screenshots/screenshot-midjourney-v6-single-comparison.png",
+      "filename": "screenshot-midjourney-v6-single-comparison.png",
+      "description": "Image unique générée par Midjourney v6 montrant un manifestant aux bras levés avec anatomie parfaitement cohérente, expression faciale réaliste et composition cinématographique. Sert de comparaison directe avec l'image v1 single pour démontrer l'évolution spectaculaire sur un même type de scène.",
+      "keywords": ["midjourney", "v6", "comparaison", "avant-après", "évolution", "photoréalisme", "manifestant", "anatomie correcte"],
+      "dimensions": {"width": 0, "height": 0},
+      "format": "png",
+      "usage": "Placer côte-à-côte avec l'image v1-single pour créer un impact visuel fort lors de présentations montrant la rapidité spectaculaire des progrès de l'IA générative entre 2022 et 2024",
       "added_date": "2026-01-29"
     }
   ]
