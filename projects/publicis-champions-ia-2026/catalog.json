@@ -1,6 +1,6 @@
 {
   "project": "publicis-champions-ia-2026",
-  "version": "v1.0.0",
+  "version": "v1.1.0",
   "created": "2026-01-29",
   "assets": [
     {
@@ -40,6 +40,19 @@
       "dimensions": {"width": 0, "height": 0},
       "format": "png",
       "usage": "Illustrer les capacités d'analyse de données et de data visualisation de Claude pour créer des dashboards exécutifs avec insights stratégiques et détection d'anomalies",
+      "added_date": "2026-01-29"
+    },
+    {
+      "id": "video-exemple-generation-ia",
+      "type": "video",
+      "category": "videos",
+      "url": "https://raw.githubusercontent.com/4humens/slides-assets/main/projects/publicis-champions-ia-2026/videos/video-exemple-generation-ia.mp4",
+      "filename": "video-exemple-generation-ia.mp4",
+      "description": "Vidéo générée par intelligence artificielle illustrant les capacités actuelles de génération vidéo des outils d'IA générative. Démontre la qualité et le réalisme atteignable avec les modèles de génération vidéo récents.",
+      "keywords": ["vidéo", "IA générative", "génération vidéo", "exemple", "démonstration", "AI video"],
+      "dimensions": {"width": 0, "height": 0},
+      "format": "mp4",
+      "usage": "Illustrer concrètement les capacités de génération vidéo des outils d'IA générative dans une présentation sur l'IA",
       "added_date": "2026-01-29"
     }
   ]
