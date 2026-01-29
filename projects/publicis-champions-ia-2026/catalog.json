@@ -1,6 +1,6 @@
 {
   "project": "publicis-champions-ia-2026",
-  "version": "v1.1.0",
+  "version": "v1.2.0",
   "created": "2026-01-29",
   "assets": [
     {
@@ -53,6 +53,19 @@
       "dimensions": {"width": 0, "height": 0},
       "format": "mp4",
       "usage": "Illustrer concrètement les capacités de génération vidéo des outils d'IA générative dans une présentation sur l'IA",
+      "added_date": "2026-01-29"
+    },
+    {
+      "id": "diagram-architecture-agent-ia-calendar-whatsapp",
+      "type": "image",
+      "category": "diagrams",
+      "url": "https://raw.githubusercontent.com/4humens/slides-assets/main/projects/publicis-champions-ia-2026/diagrams/diagram-architecture-agent-ia-calendar-whatsapp.webp",
+      "filename": "diagram-architecture-agent-ia-calendar-whatsapp.webp",
+      "description": "Diagramme d'architecture d'un agent IA (Tools Agent) utilisant Google Gemini comme modèle de chat conversationnel, connecté à Simple Memory pour la gestion de la mémoire, Google Calendar pour la création d'événements, et WhatsApp pour l'envoi de messages via templates. Montre les connexions entre le nœud central AI Agent et ses différents composants (Chat Model, Memory, Tool).",
+      "keywords": ["agent IA", "architecture", "Google Gemini", "Calendar", "WhatsApp", "tools agent", "diagramme technique", "intégration", "API"],
+      "dimensions": {"width": 0, "height": 0},
+      "format": "webp",
+      "usage": "Illustrer l'architecture technique d'un agent IA avec intégration de services externes (Google Calendar, WhatsApp) et expliquer les composants d'un système agentic",
       "added_date": "2026-01-29"
     }
   ]
