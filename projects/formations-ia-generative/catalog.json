@@ -1,0 +1,20 @@
+{
+  "project": "formations-ia-generative",
+  "description": "Assets réutilisables pour les formations IA générative",
+  "version": "1.0.0",
+  "assets": [
+    {
+      "id": "screenshot-ai-ads-fails-chamonix-undiz-monoprix",
+      "type": "image",
+      "category": "screenshots",
+      "url": "https://raw.githubusercontent.com/4humens/brand-assets/main/projects/formations-ia-generative/screenshots/screenshot-ai-ads-fails-chamonix-undiz-monoprix.png",
+      "filename": "screenshot-ai-ads-fails-chamonix-undiz-monoprix.png",
+      "description": "Collage de 3 publicités françaises générées par IA avec artefacts visibles. Chamonix Mont-Blanc (campagne Reconnecter à la Nature avec personnage à 6 doigts), Undiz (femme sous l'eau avec incohérences), Monoprix (chien dédoublé sur affiche carte fidélité). Illustre parfaitement les risques réputationnels liés à la publication de visuels IA non vérifiés.",
+      "keywords": ["ia-generative", "publicite", "fail", "artefact", "chamonix", "undiz", "monoprix", "risque-reputationnel", "marques", "erreur-ia", "6-doigts"],
+      "dimensions": {"width": 2248, "height": 844},
+      "format": "png",
+      "usage": "Slide de sensibilisation aux risques réputationnels de l'IA générative - cas concrets de marques françaises ayant publié des visuels avec artefacts",
+      "added_date": "2026-01-30"
+    }
+  ]
+}
