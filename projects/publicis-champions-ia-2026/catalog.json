@@ -1,6 +1,6 @@
 {
   "project": "publicis-champions-ia-2026",
-  "version": "v1.4.0",
+  "version": "v1.5.0",
   "created": "2026-01-29",
   "assets": [
     {
@@ -183,6 +183,19 @@
       "dimensions": {"width": 0, "height": 0},
       "format": "png",
       "usage": "Placer côte-à-côte avec l'image v1-single pour créer un impact visuel fort lors de présentations montrant la rapidité spectaculaire des progrès de l'IA générative entre 2022 et 2024",
+      "added_date": "2026-01-29"
+    },
+    {
+      "id": "screenshot-communaute-champions-ia",
+      "type": "image",
+      "category": "screenshots",
+      "url": "https://raw.githubusercontent.com/4humens/slides-assets/main/projects/publicis-champions-ia-2026/screenshots/screenshot-communaute-champions-ia.png",
+      "filename": "screenshot-communaute-champions-ia.png",
+      "description": "Cartographie visuelle de la communauté des Champions IA de Publicis (+35 membres). Affiche les photos circulaires et noms des participants organisés par département (IA Office, OneTeam, PMI, Performics, Starcom, Publicis Connect, etc.), avec mise en évidence des contacts clés comme Laetitia Pfeiffer et Sandra Jabkbi (IA Office). Fond noir avec design moderne et badges par entité.",
+      "keywords": ["communauté", "champions IA", "publicis", "cartographie", "équipe", "réseau", "organigramme visuel", "IA Office", "collaboration"],
+      "dimensions": {"width": 0, "height": 0},
+      "format": "png",
+      "usage": "Slide de présentation de la communauté pour créer un sentiment d'appartenance, montrer l'ampleur du réseau Champions IA chez Publicis et identifier les contacts clés par département",
       "added_date": "2026-01-29"
     }
   ]
