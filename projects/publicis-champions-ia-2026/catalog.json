@@ -1,6 +1,6 @@
 {
   "project": "publicis-champions-ia-2026",
-  "version": "v1.2.0",
+  "version": "v1.3.0",
   "created": "2026-01-29",
   "assets": [
     {
@@ -66,6 +66,19 @@
       "dimensions": {"width": 0, "height": 0},
       "format": "webp",
       "usage": "Illustrer l'architecture technique d'un agent IA avec intégration de services externes (Google Calendar, WhatsApp) et expliquer les composants d'un système agentic",
+      "added_date": "2026-01-29"
+    },
+    {
+      "id": "screenshot-excel-dashboard-ventes-copilot",
+      "type": "image",
+      "category": "screenshots",
+      "url": "https://raw.githubusercontent.com/4humens/slides-assets/main/projects/publicis-champions-ia-2026/screenshots/screenshot-excel-dashboard-ventes-copilot.png",
+      "filename": "screenshot-excel-dashboard-ventes-copilot.png",
+      "description": "Capture d'écran Excel montrant un dashboard de synthèse des ventes Ferrero généré avec Copilot. Inclut des indicateurs clés de performance (19 transactions, $20,773.80 ventes totales, vente moyenne $1,093.36), une section d'analyse par produit avec tableau détaillé, et un graphique en barres colorées des top produits par ventes.",
+      "keywords": ["excel", "copilot", "dashboard", "ventes", "KPI", "graphique", "tableau", "analyse", "business intelligence", "Ferrero"],
+      "dimensions": {"width": 0, "height": 0},
+      "format": "png",
+      "usage": "Illustrer les capacités de Microsoft Copilot dans Excel pour créer des dashboards analytiques automatisés avec KPIs, tableaux et visualisations de données commerciales",
       "added_date": "2026-01-29"
     }
   ]
