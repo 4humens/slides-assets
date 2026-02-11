@@ -1,0 +1,19 @@
+{
+  "project": "safic-alcan-webinaire-2026",
+  "version": "1.0.0",
+  "assets": [
+    {
+      "id": "qr-code-satisfaction-webinaire-safic-alcan-homini",
+      "type": "image",
+      "category": "misc",
+      "url": "https://raw.githubusercontent.com/4humens/brand-assets/main/projects/safic-alcan-webinaire-2026/misc/qr-code-satisfaction-webinaire-safic-alcan-homini.png",
+      "filename": "qr-code-satisfaction-webinaire-safic-alcan-homini.png",
+      "description": "QR code noir et blanc pour le questionnaire de satisfaction du webinaire IA Safic Alcan animé par HOMINI. Contraste net, bonne lisibilité pour scan rapide depuis les slides.",
+      "keywords": ["qr code", "satisfaction", "webinaire", "safic alcan", "homini", "questionnaire", "feedback"],
+      "dimensions": {"width": 0, "height": 0},
+      "format": "png",
+      "usage": "Slide questionnaire de satisfaction en fin de webinaire, affichage grand format pour scan par les participants.",
+      "added_date": "2026-02-11"
+    }
+  ]
+}
