@@ -1,0 +1,20 @@
+{
+  "project": "atelier-pratique-1788",
+  "description": "Assets pour l'atelier pratique IA — Agence 1788",
+  "version": "1.0.0",
+  "assets": [
+    {
+      "id": "photo-deloitte-cas-hallucination-ia",
+      "type": "image",
+      "category": "photos",
+      "url": "https://raw.githubusercontent.com/4humens/brand-assets/main/projects/atelier-pratique-1788/photos/photo-deloitte-cas-hallucination-ia.jpg",
+      "filename": "photo-deloitte-cas-hallucination-ia.jpg",
+      "description": "Visuel de presse illustrant le cas Deloitte : rapport gouvernemental australien produit avec GPT-4o contenant des hallucinations (citations inventées, juge fictif). Utilisé pour les info-slides de sensibilisation aux risques de l'IA en recherche documentaire.",
+      "keywords": ["deloitte", "hallucination", "ia", "rapport", "australie", "gpt-4", "cas", "info-slide", "recherche", "verification"],
+      "dimensions": {"width": 800, "height": 660},
+      "format": "jpg",
+      "usage": "Info-slide cas Deloitte dans les ateliers pratiques IA (module recherche web), à gauche du texte avec object-fit contain.",
+      "added_date": "2026-02-18"
+    }
+  ]
+}
