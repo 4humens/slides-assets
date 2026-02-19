@@ -1,0 +1,127 @@
+{
+  "project": "emargement-publicis-2026",
+  "version": "v1.0.0",
+  "description": "QR codes d'émargement par métier pour les ateliers pratiques IA Publicis 2026",
+  "assets": [
+    {
+      "id": "qr-publicis-content",
+      "type": "image",
+      "category": "qr-codes",
+      "url": "https://raw.githubusercontent.com/4humens/brand-assets/main/projects/emargement-publicis-2026/qr-codes/qr-publicis-content.png",
+      "filename": "qr-publicis-content.png",
+      "description": "QR code d'émargement pour les participants du métier Content chez Publicis. Permet la signature électronique de présence à l'atelier pratique IA.",
+      "keywords": ["qr-code", "emargement", "publicis", "content", "formation", "presence"],
+      "dimensions": {"width": 0, "height": 0},
+      "format": "png",
+      "usage": "Afficher en fin de session sur la slide d'émargement pour le groupe Content"
+    },
+    {
+      "id": "qr-publicis-planning-strat",
+      "type": "image",
+      "category": "qr-codes",
+      "url": "https://raw.githubusercontent.com/4humens/brand-assets/main/projects/emargement-publicis-2026/qr-codes/qr-publicis-planning-strat.png",
+      "filename": "qr-publicis-planning-strat.png",
+      "description": "QR code d'émargement pour les participants du métier Planning Stratégique chez Publicis. Permet la signature électronique de présence à l'atelier pratique IA.",
+      "keywords": ["qr-code", "emargement", "publicis", "planning", "strategie", "formation", "presence"],
+      "dimensions": {"width": 0, "height": 0},
+      "format": "png",
+      "usage": "Afficher en fin de session sur la slide d'émargement pour le groupe Planning Strat"
+    },
+    {
+      "id": "qr-publicis-seo",
+      "type": "image",
+      "category": "qr-codes",
+      "url": "https://raw.githubusercontent.com/4humens/brand-assets/main/projects/emargement-publicis-2026/qr-codes/qr-publicis-seo.png",
+      "filename": "qr-publicis-seo.png",
+      "description": "QR code d'émargement pour les participants du métier SEO chez Publicis. Permet la signature électronique de présence à l'atelier pratique IA.",
+      "keywords": ["qr-code", "emargement", "publicis", "seo", "formation", "presence"],
+      "dimensions": {"width": 0, "height": 0},
+      "format": "png",
+      "usage": "Afficher en fin de session sur la slide d'émargement pour le groupe SEO"
+    },
+    {
+      "id": "qr-publicis-agent-ia-1",
+      "type": "image",
+      "category": "qr-codes",
+      "url": "https://raw.githubusercontent.com/4humens/brand-assets/main/projects/emargement-publicis-2026/qr-codes/qr-publicis-agent-ia-1.png",
+      "filename": "qr-publicis-agent-ia-1.png",
+      "description": "QR code d'émargement pour les participants de l'atelier Agent IA (groupe 1) chez Publicis. Permet la signature électronique de présence à l'atelier pratique IA.",
+      "keywords": ["qr-code", "emargement", "publicis", "agent-ia", "groupe-1", "formation", "presence"],
+      "dimensions": {"width": 0, "height": 0},
+      "format": "png",
+      "usage": "Afficher en fin de session sur la slide d'émargement pour le groupe Agent IA 1"
+    },
+    {
+      "id": "qr-publicis-agent-ia-2",
+      "type": "image",
+      "category": "qr-codes",
+      "url": "https://raw.githubusercontent.com/4humens/brand-assets/main/projects/emargement-publicis-2026/qr-codes/qr-publicis-agent-ia-2.png",
+      "filename": "qr-publicis-agent-ia-2.png",
+      "description": "QR code d'émargement pour les participants de l'atelier Agent IA (groupe 2) chez Publicis. Permet la signature électronique de présence à l'atelier pratique IA.",
+      "keywords": ["qr-code", "emargement", "publicis", "agent-ia", "groupe-2", "formation", "presence"],
+      "dimensions": {"width": 0, "height": 0},
+      "format": "png",
+      "usage": "Afficher en fin de session sur la slide d'émargement pour le groupe Agent IA 2"
+    },
+    {
+      "id": "qr-publicis-conseil-new-biz",
+      "type": "image",
+      "category": "qr-codes",
+      "url": "https://raw.githubusercontent.com/4humens/brand-assets/main/projects/emargement-publicis-2026/qr-codes/qr-publicis-conseil-new-biz.png",
+      "filename": "qr-publicis-conseil-new-biz.png",
+      "description": "QR code d'émargement pour les participants du métier Conseil & New Biz chez Publicis. Permet la signature électronique de présence à l'atelier pratique IA.",
+      "keywords": ["qr-code", "emargement", "publicis", "conseil", "new-biz", "formation", "presence"],
+      "dimensions": {"width": 0, "height": 0},
+      "format": "png",
+      "usage": "Afficher en fin de session sur la slide d'émargement pour le groupe Conseil et New Biz"
+    },
+    {
+      "id": "qr-publicis-finance-adv",
+      "type": "image",
+      "category": "qr-codes",
+      "url": "https://raw.githubusercontent.com/4humens/brand-assets/main/projects/emargement-publicis-2026/qr-codes/qr-publicis-finance-adv.png",
+      "filename": "qr-publicis-finance-adv.png",
+      "description": "QR code d'émargement pour les participants du métier Finance & ADV chez Publicis. Permet la signature électronique de présence à l'atelier pratique IA.",
+      "keywords": ["qr-code", "emargement", "publicis", "finance", "adv", "formation", "presence"],
+      "dimensions": {"width": 0, "height": 0},
+      "format": "png",
+      "usage": "Afficher en fin de session sur la slide d'émargement pour le groupe Finance ADV"
+    },
+    {
+      "id": "qr-publicis-rh",
+      "type": "image",
+      "category": "qr-codes",
+      "url": "https://raw.githubusercontent.com/4humens/brand-assets/main/projects/emargement-publicis-2026/qr-codes/qr-publicis-rh.png",
+      "filename": "qr-publicis-rh.png",
+      "description": "QR code d'émargement pour les participants du métier RH chez Publicis. Permet la signature électronique de présence à l'atelier pratique IA.",
+      "keywords": ["qr-code", "emargement", "publicis", "rh", "ressources-humaines", "formation", "presence"],
+      "dimensions": {"width": 0, "height": 0},
+      "format": "png",
+      "usage": "Afficher en fin de session sur la slide d'émargement pour le groupe RH"
+    },
+    {
+      "id": "qr-publicis-sea",
+      "type": "image",
+      "category": "qr-codes",
+      "url": "https://raw.githubusercontent.com/4humens/brand-assets/main/projects/emargement-publicis-2026/qr-codes/qr-publicis-sea.png",
+      "filename": "qr-publicis-sea.png",
+      "description": "QR code d'émargement pour les participants du métier SEA chez Publicis. Permet la signature électronique de présence à l'atelier pratique IA.",
+      "keywords": ["qr-code", "emargement", "publicis", "sea", "formation", "presence"],
+      "dimensions": {"width": 0, "height": 0},
+      "format": "png",
+      "usage": "Afficher en fin de session sur la slide d'émargement pour le groupe SEA"
+    },
+    {
+      "id": "qr-publicis-trading",
+      "type": "image",
+      "category": "qr-codes",
+      "url": "https://raw.githubusercontent.com/4humens/brand-assets/main/projects/emargement-publicis-2026/qr-codes/qr-publicis-trading.png",
+      "filename": "qr-publicis-trading.png",
+      "description": "QR code d'émargement pour les participants du métier Trading chez Publicis. Permet la signature électronique de présence à l'atelier pratique IA.",
+      "keywords": ["qr-code", "emargement", "publicis", "trading", "formation", "presence"],
+      "dimensions": {"width": 0, "height": 0},
+      "format": "png",
+      "usage": "Afficher en fin de session sur la slide d'émargement pour le groupe Trading"
+    }
+  ]
+}
