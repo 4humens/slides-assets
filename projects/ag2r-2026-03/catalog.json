@@ -1,0 +1,90 @@
+{
+  "project": "ag2r-2026-03",
+  "version": "1.0.0",
+  "assets": [
+    {
+      "id": "screenshot-almia-explorer-assistants",
+      "type": "image",
+      "category": "screenshots",
+      "url": "https://raw.githubusercontent.com/4humens/brand-assets/main/projects/ag2r-2026-03/screenshots/screenshot-almia-explorer-assistants.png",
+      "filename": "screenshot-almia-explorer-assistants.png",
+      "description": "Interface principale d'Almia Bot avec la liste des assistants récents dans la barre latérale gauche. L'assistant 'Almia Bot' (Assistant général) est sélectionné et affiché au centre de l'écran avec son icône et une zone de saisie de question en bas.",
+      "keywords": ["almia", "explorer", "assistants", "interface", "liste", "accueil", "bot"],
+      "dimensions": {"width": 1024, "height": 422},
+      "format": "png",
+      "usage": "Slide d'introduction à l'interface Almia — montrer l'exploration des assistants disponibles"
+    },
+    {
+      "id": "screenshot-almia-creer-assistant-etape1-infos",
+      "type": "image",
+      "category": "screenshots",
+      "url": "https://raw.githubusercontent.com/4humens/brand-assets/main/projects/ag2r-2026-03/screenshots/screenshot-almia-creer-assistant-etape1-infos.png",
+      "filename": "screenshot-almia-creer-assistant-etape1-infos.png",
+      "description": "Formulaire de création d'un assistant Almia, étape 1 'Informations de l'assistant'. L'étape 1 est mise en évidence (fond sombre). Le formulaire présente les champs icône, couleur, nom, description, domaine et actions rapides, tous vides.",
+      "keywords": ["almia", "creation", "assistant", "etape1", "informations", "formulaire", "configurateur"],
+      "dimensions": {"width": 1024, "height": 422},
+      "format": "png",
+      "usage": "Slide de démonstration de la création d'assistant — étape 1 Informations"
+    },
+    {
+      "id": "screenshot-almia-creer-assistant-etape2-comportement-vide",
+      "type": "image",
+      "category": "screenshots",
+      "url": "https://raw.githubusercontent.com/4humens/brand-assets/main/projects/ag2r-2026-03/screenshots/screenshot-almia-creer-assistant-etape2-comportement-vide.png",
+      "filename": "screenshot-almia-creer-assistant-etape2-comportement-vide.png",
+      "description": "Création d'assistant Almia, étape 2 'Comportement de l'assistant'. L'étape 2 est active (fond sombre). Le champ Prompt est vide, le modèle n'est pas encore sélectionné, et la section 'Données de la base de connaissance' affiche deux zones de dépôt de fichiers.",
+      "keywords": ["almia", "creation", "assistant", "etape2", "comportement", "prompt", "modele", "vide"],
+      "dimensions": {"width": 1024, "height": 422},
+      "format": "png",
+      "usage": "Slide de démonstration de la création d'assistant — étape 2 Comportement, vue initiale vide"
+    },
+    {
+      "id": "screenshot-almia-creer-assistant-etape2-modele-avance",
+      "type": "image",
+      "category": "screenshots",
+      "url": "https://raw.githubusercontent.com/4humens/brand-assets/main/projects/ag2r-2026-03/screenshots/screenshot-almia-creer-assistant-etape2-modele-avance.png",
+      "filename": "screenshot-almia-creer-assistant-etape2-modele-avance.png",
+      "description": "Création d'assistant Almia, étape 2 'Comportement' avec le modèle 'Rédacteur et lecteur de documents très avancé' sélectionné. Les paramètres avancés (créativité 0.2, taille maximale 2048) et les options d'anonymisation et de mise à jour internet sont visibles.",
+      "keywords": ["almia", "creation", "assistant", "etape2", "modele", "avance", "redacteur", "parametres"],
+      "dimensions": {"width": 1024, "height": 422},
+      "format": "png",
+      "usage": "Slide de démonstration — étape 2 avec modèle Rédacteur avancé sélectionné et paramètres avancés"
+    },
+    {
+      "id": "screenshot-almia-creer-assistant-etape2-base-connaissance",
+      "type": "image",
+      "category": "screenshots",
+      "url": "https://raw.githubusercontent.com/4humens/brand-assets/main/projects/ag2r-2026-03/screenshots/screenshot-almia-creer-assistant-etape2-base-connaissance.png",
+      "filename": "screenshot-almia-creer-assistant-etape2-base-connaissance.png",
+      "description": "Création d'assistant Almia, étape 2 'Comportement' avec le modèle 'Base de connaissance textuelle' sélectionné. La description du modèle explique son usage pour les bases de connaissances internes. Une zone de dépôt de fichiers est visible en bas pour associer des documents à l'assistant.",
+      "keywords": ["almia", "creation", "assistant", "etape2", "base-connaissance", "modele", "fichiers", "documents"],
+      "dimensions": {"width": 1024, "height": 422},
+      "format": "png",
+      "usage": "Slide de démonstration — étape 2 avec modèle Base de connaissance sélectionné et zone de dépôt de fichiers"
+    },
+    {
+      "id": "screenshot-almia-creer-assistant-etape3-partage",
+      "type": "image",
+      "category": "screenshots",
+      "url": "https://raw.githubusercontent.com/4humens/brand-assets/main/projects/ag2r-2026-03/screenshots/screenshot-almia-creer-assistant-etape3-partage.png",
+      "filename": "screenshot-almia-creer-assistant-etape3-partage.png",
+      "description": "Création d'assistant Almia, étape 3 'Partage de l'assistant'. L'étape 3 est active. Deux options de partage sont proposées : 'Moi uniquement' ou 'Les personnes choisies', permettant de définir qui peut accéder à l'assistant créé.",
+      "keywords": ["almia", "creation", "assistant", "etape3", "partage", "permissions", "acces", "collaboratif"],
+      "dimensions": {"width": 1024, "height": 422},
+      "format": "png",
+      "usage": "Slide de démonstration — étape 3 Partage de l'assistant, options de visibilité"
+    },
+    {
+      "id": "screenshot-almia-prompts-enregistres",
+      "type": "image",
+      "category": "screenshots",
+      "url": "https://raw.githubusercontent.com/4humens/brand-assets/main/projects/ag2r-2026-03/screenshots/screenshot-almia-prompts-enregistres.png",
+      "filename": "screenshot-almia-prompts-enregistres.png",
+      "description": "Interface Almia Bot avec le panneau latéral droit 'Prompts enregistrés' ouvert. Deux prompts enregistrés sont visibles : 'Propose des accroches pour un post LinkedIn' et 'donne l'url de la source'. Une conversation active est visible au centre avec une réponse de l'assistant sous forme de liste à puces.",
+      "keywords": ["almia", "prompts", "enregistres", "sauvegarde", "reutilisation", "paneau", "productivite"],
+      "dimensions": {"width": 1024, "height": 422},
+      "format": "png",
+      "usage": "Slide de démonstration de la fonctionnalité Prompts enregistrés — réutilisation de prompts sauvegardés"
+    }
+  ]
+}
