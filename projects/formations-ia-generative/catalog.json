@@ -29,6 +29,19 @@
       "format": "png",
       "usage": "Slide de démonstration de l'agent IA personnalisé pour la génération de présentations - montrer l'interface CLI et le résultat produit",
       "added_date": "2026-03-22"
+    },
+    {
+      "id": "screenshot-agent-ia-notion-nurturing",
+      "type": "image",
+      "category": "screenshots",
+      "url": "https://raw.githubusercontent.com/4humens/slides-assets/main/projects/formations-ia-generative/screenshots/screenshot-agent-ia-notion-nurturing.png",
+      "filename": "screenshot-agent-ia-notion-nurturing.png",
+      "description": "Capture d'écran de l'interface d'un agent IA Notion nommé 'Nurturing', conçu pour créer des plans de nurturing et réactiver les prospects au bon moment. On voit le panneau de l'agent (icône robot, description, champ de prompt) et ses paramètres : déclencheurs (nouvelle discussion, mention dans Notion), instructions sur les signaux faibles à surveiller (changement de poste, recrutement, levée de fonds, etc.), et outils configurés (accès Notion en lecture seule).",
+      "keywords": ["notion", "agent-ia", "nurturing", "prospection", "crm", "signaux-faibles", "relance", "automation", "b2b"],
+      "dimensions": {"width": 0, "height": 0},
+      "format": "png",
+      "usage": "Slide de démonstration d'un agent IA Notion personnalisé pour le nurturing commercial - montrer l'interface de configuration et les capacités",
+      "added_date": "2026-03-22"
     }
   ]
 }
