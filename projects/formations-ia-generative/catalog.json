@@ -16,5 +16,19 @@
       "usage": "Slide de sensibilisation aux risques réputationnels de l'IA générative - cas concrets de marques françaises ayant publié des visuels avec artefacts",
       "added_date": "2026-01-30"
     }
+  ,
+    {
+      "id": "screenshot-agent-ia-slides-claude-code",
+      "type": "image",
+      "category": "screenshots",
+      "url": "https://raw.githubusercontent.com/4humens/brand-assets/main/projects/formations-ia-generative/screenshots/screenshot-agent-ia-slides-claude-code.png",
+      "filename": "screenshot-agent-ia-slides-claude-code.png",
+      "description": "Capture d'écran montrant Claude Code (v2.1.81) en cours d'utilisation avec la commande /slides-chartes pour générer une brochure partenariat WIP. Le terminal affiche la commande saisie et en arrière-plan une slide générée est visible (brochure 4humens avec logos TF1, L'Oréal, SNCF, Best Western, La Poste). Illustre concrètement l'agent IA personnalisé pour la génération automatique de présentations.",
+      "keywords": ["claude-code", "agent-ia", "slides", "generation", "terminal", "demo", "brochure", "4humens", "slash-command", "automatisation"],
+      "dimensions": {"width": 0, "height": 0},
+      "format": "png",
+      "usage": "Slide de démonstration de l'agent IA personnalisé pour la génération de présentations - montrer l'interface CLI et le résultat produit",
+      "added_date": "2026-03-22"
+    }
   ]
 }
