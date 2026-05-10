@@ -1,0 +1,19 @@
+{
+  "project": "eqler-2026-05",
+  "version": "1.0.0",
+  "assets": [
+    {
+      "id": "logo-eqler",
+      "type": "image",
+      "category": "logos",
+      "url": "https://raw.githubusercontent.com/k4humens/slides-assets/main/projects/eqler-2026-05/logos/eqler-logo.png",
+      "filename": "eqler-logo.png",
+      "description": "Logo Eqler en wordmark : EQLER en lettres capitales bleu marine, surligné par une barre verte, accompagné de la baseline ENERGY MARKET CONSULTING. Identité visuelle de la consultante indépendante spécialisée dans les marchés de l'énergie (électricité et gaz).",
+      "keywords": ["logo", "eqler", "wordmark", "energie", "energy", "consulting", "electricite", "gaz", "marches-energie"],
+      "dimensions": {"width": 500, "height": 200},
+      "format": "png",
+      "usage": "Logo officiel à intégrer en bas à droite des slides Eqler (charte graphique imposée par la cliente)",
+      "added_date": "2026-05-10"
+    }
+  ]
+}
