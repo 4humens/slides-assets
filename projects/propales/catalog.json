@@ -669,6 +669,28 @@
         "reference-client"
       ],
       "usage": "Slide références clients ; afficher le logo African Digital Summit dans la grille (secteur Événement digital international)."
+    },
+    {
+      "id": "logo-limagrain",
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/4humens/slides-assets/main/projects/propales/logo-limagrain.svg",
+      "filename": "logo-limagrain.svg",
+      "format": "svg",
+      "added_date": "2026-05-15",
+      "category": "logos",
+      "client_name": "Limagrain",
+      "sector": "Semences / Agroalimentaire",
+      "variant": "default",
+      "description": "Logo officiel de Limagrain — groupe semencier et agroalimentaire coopératif français. SVG vectoriel, couleur #BC1741 (rouge Limagrain), rendu blanc via filter CSS dans les slides.",
+      "keywords": [
+        "logo",
+        "limagrain",
+        "semences",
+        "agroalimentaire",
+        "coopérative",
+        "reference-client"
+      ],
+      "usage": "Slide références clients ; afficher le logo Limagrain dans la grille (secteur Semences / Agroalimentaire)."
     }
   ]
 }
