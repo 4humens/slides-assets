@@ -593,15 +593,15 @@
     {
       "id": "logo-tivoly",
       "type": "image",
-      "url": "https://raw.githubusercontent.com/4humens/slides-assets/main/projects/propales/logo-tivoly.jpg",
-      "filename": "logo-tivoly.jpg",
-      "format": "jpg",
+      "url": "https://raw.githubusercontent.com/4humens/slides-assets/main/projects/propales/logo-tivoly.png",
+      "filename": "logo-tivoly.png",
+      "format": "png",
       "added_date": "2026-05-15",
       "category": "logos",
       "client_name": "Tivoly",
       "sector": "Industrie / Outillage",
       "variant": "default",
-      "description": "Logo officiel de Tivoly (version Wikimedia officielle) — utilisable dans la grille de références clients d'une propale 4humens.",
+      "description": "Logo officiel de Tivoly — PNG fond transparent, rendu blanc via filter CSS brightness(0) invert(1). Utilisable dans la grille de références clients d'une propale 4humens.",
       "keywords": [
         "logo",
         "tivoly",
@@ -621,7 +621,7 @@
       "client_name": "AXA Services Maroc",
       "sector": "Services / Assurance",
       "variant": "default",
-      "description": "Logo officiel de AXA Services Maroc — utilisable dans la grille de références clients d'une propale 4humens.",
+      "description": "Logo officiel de AXA — SVG vectoriel sans fond, rendu blanc via filter CSS brightness(0) invert(1). Utilisable dans la grille de références clients d'une propale 4humens.",
       "keywords": [
         "logo",
         "axa",
