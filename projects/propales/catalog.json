@@ -863,6 +863,45 @@
         "kirthigan"
       ],
       "usage": "Slide références clients ou présentation formateur — illustration terrain chez Adecco."
+    },
+    {
+      "id": "photo-profil-kirthigan",
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/4humens/slides-assets/main/projects/propales/photo-profil-kirthigan.jpg",
+      "filename": "photo-profil-kirthigan.jpg",
+      "format": "jpg",
+      "added_date": "2026-05-15",
+      "category": "photos",
+      "subject": "profil-kirthigan",
+      "description": "Photo profil cofondateur Kirthigan",
+      "keywords": [
+        "photo",
+        "profil",
+        "cofondateur",
+        "kirthigan",
+        "couleur"
+      ],
+      "usage": "Slide présentation cofondateur — photo profil couleur."
+    },
+    {
+      "id": "photo-profil-paul",
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/4humens/slides-assets/main/projects/propales/photo-profil-paul.jpg",
+      "filename": "photo-profil-paul.jpg",
+      "format": "jpg",
+      "added_date": "2026-05-15",
+      "category": "photos",
+      "subject": "profil-paul",
+      "description": "Photo profil cofondateur Paul",
+      "keywords": [
+        "photo",
+        "profil",
+        "cofondateur",
+        "paul",
+        "nb",
+        "portrait"
+      ],
+      "usage": "Slide présentation cofondateur — portrait noir et blanc."
     }
   ]
 }
