@@ -569,6 +569,106 @@
         "presentation"
       ],
       "usage": "Slide présentation 4humens ou expertise — illustration humaine et terrain."
+    },
+    {
+      "id": "logo-kronenbourg",
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/4humens/slides-assets/main/projects/propales/logo-kronenbourg.png",
+      "filename": "logo-kronenbourg.png",
+      "format": "png",
+      "added_date": "2026-05-15",
+      "category": "logos",
+      "client_name": "Brasseries Kronenbourg",
+      "sector": "Agroalimentaire / Brasserie",
+      "variant": "default",
+      "description": "Logo officiel de Brasseries Kronenbourg — utilisable dans la grille de références clients d'une propale 4humens.",
+      "keywords": [
+        "logo",
+        "kronenbourg",
+        "agroalimentaire / brasserie",
+        "reference-client"
+      ],
+      "usage": "Slide références clients ; afficher le logo Brasseries Kronenbourg dans la grille (secteur Agroalimentaire / Brasserie)."
+    },
+    {
+      "id": "logo-tivoly",
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/4humens/slides-assets/main/projects/propales/logo-tivoly.png",
+      "filename": "logo-tivoly.png",
+      "format": "png",
+      "added_date": "2026-05-15",
+      "category": "logos",
+      "client_name": "Tivoly",
+      "sector": "Industrie / Outillage",
+      "variant": "default",
+      "description": "Logo officiel de Tivoly — utilisable dans la grille de références clients d'une propale 4humens.",
+      "keywords": [
+        "logo",
+        "tivoly",
+        "industrie / outillage",
+        "reference-client"
+      ],
+      "usage": "Slide références clients ; afficher le logo Tivoly dans la grille (secteur Industrie / Outillage)."
+    },
+    {
+      "id": "logo-axa",
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/4humens/slides-assets/main/projects/propales/logo-axa.svg",
+      "filename": "logo-axa.svg",
+      "format": "svg",
+      "added_date": "2026-05-15",
+      "category": "logos",
+      "client_name": "AXA Services Maroc",
+      "sector": "Services / Assurance",
+      "variant": "default",
+      "description": "Logo officiel de AXA Services Maroc — utilisable dans la grille de références clients d'une propale 4humens.",
+      "keywords": [
+        "logo",
+        "axa",
+        "services / assurance",
+        "reference-client"
+      ],
+      "usage": "Slide références clients ; afficher le logo AXA Services Maroc dans la grille (secteur Services / Assurance)."
+    },
+    {
+      "id": "logo-peugeot-invest",
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/4humens/slides-assets/main/projects/propales/logo-peugeot-invest.svg",
+      "filename": "logo-peugeot-invest.svg",
+      "format": "svg",
+      "added_date": "2026-05-15",
+      "category": "logos",
+      "client_name": "Etablissements Peugeot Frères / Peugeot Invest",
+      "sector": "Holding industriel",
+      "variant": "default",
+      "description": "Logo officiel de Etablissements Peugeot Frères / Peugeot Invest — utilisable dans la grille de références clients d'une propale 4humens.",
+      "keywords": [
+        "logo",
+        "peugeot-invest",
+        "holding industriel",
+        "reference-client"
+      ],
+      "usage": "Slide références clients ; afficher le logo Etablissements Peugeot Frères / Peugeot Invest dans la grille (secteur Holding industriel)."
+    },
+    {
+      "id": "logo-african-digital-summit",
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/4humens/slides-assets/main/projects/propales/logo-african-digital-summit.png",
+      "filename": "logo-african-digital-summit.png",
+      "format": "png",
+      "added_date": "2026-05-15",
+      "category": "logos",
+      "client_name": "African Digital Summit",
+      "sector": "Événement digital international",
+      "variant": "default",
+      "description": "Logo officiel de African Digital Summit — utilisable dans la grille de références clients d'une propale 4humens.",
+      "keywords": [
+        "logo",
+        "african-digital-summit",
+        "événement digital international",
+        "reference-client"
+      ],
+      "usage": "Slide références clients ; afficher le logo African Digital Summit dans la grille (secteur Événement digital international)."
     }
   ]
 }
