@@ -691,6 +691,70 @@
         "reference-client"
       ],
       "usage": "Slide références clients ; afficher le logo Limagrain dans la grille (secteur Semences / Agroalimentaire)."
+    },
+    {
+      "id": "logo-loreal",
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/4humens/slides-assets/main/projects/propales/logo-loreal.png",
+      "filename": "logo-loreal.png",
+      "format": "png",
+      "added_date": "2026-05-15",
+      "category": "logos",
+      "client_name": "L'Oréal",
+      "sector": "Cosmétique / Beauté",
+      "variant": "default",
+      "description": "Logo officiel de L'Oréal — utilisable dans la grille de références clients d'une propale 4humens.",
+      "keywords": [
+        "logo",
+        "loreal",
+        "cosmétique",
+        "beauté",
+        "reference-client"
+      ],
+      "usage": "Slide références clients ; afficher le logo L'Oréal dans la grille (secteur Cosmétique / Beauté)."
+    },
+    {
+      "id": "logo-laposte",
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/4humens/slides-assets/main/projects/propales/logo-laposte.png",
+      "filename": "logo-laposte.png",
+      "format": "png",
+      "added_date": "2026-05-15",
+      "category": "logos",
+      "client_name": "La Poste",
+      "sector": "Services postaux / Logistique",
+      "variant": "default",
+      "description": "Logo officiel de La Poste — utilisable dans la grille de références clients d'une propale 4humens.",
+      "keywords": [
+        "logo",
+        "laposte",
+        "poste",
+        "logistique",
+        "reference-client"
+      ],
+      "usage": "Slide références clients ; afficher le logo La Poste dans la grille (secteur Services postaux / Logistique)."
+    },
+    {
+      "id": "logo-conceptory",
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/4humens/slides-assets/main/projects/propales/logo-conceptory.png",
+      "filename": "logo-conceptory.png",
+      "format": "png",
+      "added_date": "2026-05-15",
+      "category": "logos",
+      "client_name": "Conceptory",
+      "sector": "Agence / Conseil en innovation",
+      "variant": "default",
+      "description": "Logo officiel de Conceptory — utilisable dans la grille de références clients d'une propale 4humens.",
+      "keywords": [
+        "logo",
+        "conceptory",
+        "agence",
+        "conseil",
+        "innovation",
+        "reference-client"
+      ],
+      "usage": "Slide références clients ; afficher le logo Conceptory dans la grille (secteur Agence / Conseil en innovation)."
     }
   ]
 }
