@@ -755,6 +755,114 @@
         "reference-client"
       ],
       "usage": "Slide références clients ; afficher le logo Conceptory dans la grille (secteur Agence / Conseil en innovation)."
+    },
+    {
+      "id": "photo-intervention-microsoft",
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/4humens/slides-assets/main/projects/propales/photo-intervention-microsoft.png",
+      "filename": "photo-intervention-microsoft.png",
+      "format": "png",
+      "added_date": "2026-05-15",
+      "category": "photos",
+      "subject": "intervention-microsoft",
+      "description": "Photo intervention Kirthigan chez Microsoft",
+      "keywords": [
+        "photo",
+        "intervention",
+        "microsoft",
+        "kirthigan"
+      ],
+      "usage": "Slide références clients ou présentation formateur — illustration terrain chez Microsoft."
+    },
+    {
+      "id": "photo-intervention-laposte",
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/4humens/slides-assets/main/projects/propales/photo-intervention-laposte.png",
+      "filename": "photo-intervention-laposte.png",
+      "format": "png",
+      "added_date": "2026-05-15",
+      "category": "photos",
+      "subject": "intervention-laposte",
+      "description": "Photo intervention Kirthigan chez La Poste",
+      "keywords": [
+        "photo",
+        "intervention",
+        "laposte",
+        "kirthigan"
+      ],
+      "usage": "Slide références clients ou présentation formateur — illustration terrain chez La Poste."
+    },
+    {
+      "id": "photo-intervention-sodexo",
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/4humens/slides-assets/main/projects/propales/photo-intervention-sodexo.png",
+      "filename": "photo-intervention-sodexo.png",
+      "format": "png",
+      "added_date": "2026-05-15",
+      "category": "photos",
+      "subject": "intervention-sodexo",
+      "description": "Photo intervention Kirthigan chez Sodexo",
+      "keywords": [
+        "photo",
+        "intervention",
+        "sodexo",
+        "kirthigan"
+      ],
+      "usage": "Slide références clients ou présentation formateur — illustration terrain chez Sodexo."
+    },
+    {
+      "id": "photo-intervention-tf1",
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/4humens/slides-assets/main/projects/propales/photo-intervention-tf1.jpg",
+      "filename": "photo-intervention-tf1.jpg",
+      "format": "jpg",
+      "added_date": "2026-05-15",
+      "category": "photos",
+      "subject": "intervention-tf1",
+      "description": "Photo intervention Kirthigan chez TF1",
+      "keywords": [
+        "photo",
+        "intervention",
+        "tf1",
+        "kirthigan"
+      ],
+      "usage": "Slide références clients ou présentation formateur — illustration terrain chez TF1."
+    },
+    {
+      "id": "photo-intervention-etam",
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/4humens/slides-assets/main/projects/propales/photo-intervention-etam.jpg",
+      "filename": "photo-intervention-etam.jpg",
+      "format": "jpg",
+      "added_date": "2026-05-15",
+      "category": "photos",
+      "subject": "intervention-etam",
+      "description": "Photo intervention Kirthigan chez Etam",
+      "keywords": [
+        "photo",
+        "intervention",
+        "etam",
+        "kirthigan"
+      ],
+      "usage": "Slide références clients ou présentation formateur — illustration terrain chez Etam."
+    },
+    {
+      "id": "photo-intervention-adecco",
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/4humens/slides-assets/main/projects/propales/photo-intervention-adecco.jpg",
+      "filename": "photo-intervention-adecco.jpg",
+      "format": "jpg",
+      "added_date": "2026-05-15",
+      "category": "photos",
+      "subject": "intervention-adecco",
+      "description": "Photo intervention Kirthigan chez Adecco",
+      "keywords": [
+        "photo",
+        "intervention",
+        "adecco",
+        "kirthigan"
+      ],
+      "usage": "Slide références clients ou présentation formateur — illustration terrain chez Adecco."
     }
   ]
 }
