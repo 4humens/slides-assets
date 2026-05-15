@@ -1,0 +1,574 @@
+{
+  "project": "propales",
+  "purpose": "Assets pour propales et notes de cadrage 4humens (plugin Propositions commerciales). Logos clients, photos cofondateurs/atelier/masterclass, illustration, diplôme.",
+  "version": "v1.0.0",
+  "updated": "2026-05-15",
+  "base_url": "https://raw.githubusercontent.com/4humens/slides-assets/main/projects/propales",
+  "assets": [
+    {
+      "id": "atelier-illustration",
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/4humens/slides-assets/main/projects/propales/atelier-illustration.png",
+      "filename": "atelier-illustration.png",
+      "format": "png",
+      "added_date": "2026-05-15",
+      "category": "illustrations",
+      "description": "Illustration — atelier illustration. Visuel d'appui pour slides de présentation.",
+      "keywords": [
+        "illustration",
+        "atelier illustration",
+        "4humens"
+      ],
+      "usage": "Slide d'illustration (atelier, méthode, approche)."
+    },
+    {
+      "id": "diplome-4humens",
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/4humens/slides-assets/main/projects/propales/diplome-4humens.png",
+      "filename": "diplome-4humens.png",
+      "format": "png",
+      "added_date": "2026-05-15",
+      "category": "credentials",
+      "description": "Diplôme 4humens — marqueur d'expertise / certification, à afficher dans la section présentation ou expertise.",
+      "keywords": [
+        "diplome",
+        "credential",
+        "4humens",
+        "expertise"
+      ],
+      "usage": "Slide expertise ou présentation 4humens — élément de réassurance."
+    },
+    {
+      "id": "logo-4humens-blanc",
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/4humens/slides-assets/main/projects/propales/logo-4humens-blanc.png",
+      "filename": "logo-4humens-blanc.png",
+      "format": "png",
+      "added_date": "2026-05-15",
+      "category": "logos",
+      "client_name": "4humens",
+      "sector": "4humens",
+      "variant": "blanc",
+      "description": "Logo officiel de 4humens — utilisable dans la grille de références clients d'une propale 4humens.",
+      "keywords": [
+        "logo",
+        "4humens",
+        "4humens",
+        "reference-client"
+      ],
+      "usage": "Slide références clients ; afficher le logo 4humens dans la grille (secteur 4humens)."
+    },
+    {
+      "id": "logo-adecco",
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/4humens/slides-assets/main/projects/propales/logo-adecco.png",
+      "filename": "logo-adecco.png",
+      "format": "png",
+      "added_date": "2026-05-15",
+      "category": "logos",
+      "client_name": "Adecco",
+      "sector": "RH / intérim",
+      "variant": "default",
+      "description": "Logo officiel de Adecco — utilisable dans la grille de références clients d'une propale 4humens.",
+      "keywords": [
+        "logo",
+        "adecco",
+        "rh / intérim",
+        "reference-client"
+      ],
+      "usage": "Slide références clients ; afficher le logo Adecco dans la grille (secteur RH / intérim)."
+    },
+    {
+      "id": "logo-afrc",
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/4humens/slides-assets/main/projects/propales/logo-afrc.png",
+      "filename": "logo-afrc.png",
+      "format": "png",
+      "added_date": "2026-05-15",
+      "category": "logos",
+      "client_name": "AFRC",
+      "sector": "Association / relation client",
+      "variant": "default",
+      "description": "Logo officiel de AFRC — utilisable dans la grille de références clients d'une propale 4humens.",
+      "keywords": [
+        "logo",
+        "afrc",
+        "association / relation client",
+        "reference-client"
+      ],
+      "usage": "Slide références clients ; afficher le logo AFRC dans la grille (secteur Association / relation client)."
+    },
+    {
+      "id": "logo-artefact",
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/4humens/slides-assets/main/projects/propales/logo-artefact.png",
+      "filename": "logo-artefact.png",
+      "format": "png",
+      "added_date": "2026-05-15",
+      "category": "logos",
+      "client_name": "Artefact",
+      "sector": "Conseil / Data",
+      "variant": "default",
+      "description": "Logo officiel de Artefact — utilisable dans la grille de références clients d'une propale 4humens.",
+      "keywords": [
+        "logo",
+        "artefact",
+        "conseil / data",
+        "reference-client"
+      ],
+      "usage": "Slide références clients ; afficher le logo Artefact dans la grille (secteur Conseil / Data)."
+    },
+    {
+      "id": "logo-bnp",
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/4humens/slides-assets/main/projects/propales/logo-bnp.png",
+      "filename": "logo-bnp.png",
+      "format": "png",
+      "added_date": "2026-05-15",
+      "category": "logos",
+      "client_name": "BNP Paribas",
+      "sector": "Banque",
+      "variant": "default",
+      "description": "Logo officiel de BNP Paribas — utilisable dans la grille de références clients d'une propale 4humens.",
+      "keywords": [
+        "logo",
+        "bnp",
+        "banque",
+        "reference-client"
+      ],
+      "usage": "Slide références clients ; afficher le logo BNP Paribas dans la grille (secteur Banque)."
+    },
+    {
+      "id": "logo-bwh",
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/4humens/slides-assets/main/projects/propales/logo-bwh.png",
+      "filename": "logo-bwh.png",
+      "format": "png",
+      "added_date": "2026-05-15",
+      "category": "logos",
+      "client_name": "BWH Hotels",
+      "sector": "Hôtellerie",
+      "variant": "default",
+      "description": "Logo officiel de BWH Hotels — utilisable dans la grille de références clients d'une propale 4humens.",
+      "keywords": [
+        "logo",
+        "bwh",
+        "hôtellerie",
+        "reference-client"
+      ],
+      "usage": "Slide références clients ; afficher le logo BWH Hotels dans la grille (secteur Hôtellerie)."
+    },
+    {
+      "id": "logo-capgemini",
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/4humens/slides-assets/main/projects/propales/logo-capgemini.png",
+      "filename": "logo-capgemini.png",
+      "format": "png",
+      "added_date": "2026-05-15",
+      "category": "logos",
+      "client_name": "Capgemini",
+      "sector": "Conseil / IT",
+      "variant": "default",
+      "description": "Logo officiel de Capgemini — utilisable dans la grille de références clients d'une propale 4humens.",
+      "keywords": [
+        "logo",
+        "capgemini",
+        "conseil / it",
+        "reference-client"
+      ],
+      "usage": "Slide références clients ; afficher le logo Capgemini dans la grille (secteur Conseil / IT)."
+    },
+    {
+      "id": "logo-etam",
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/4humens/slides-assets/main/projects/propales/logo-etam.png",
+      "filename": "logo-etam.png",
+      "format": "png",
+      "added_date": "2026-05-15",
+      "category": "logos",
+      "client_name": "Etam",
+      "sector": "Mode / Lingerie",
+      "variant": "default",
+      "description": "Logo officiel de Etam — utilisable dans la grille de références clients d'une propale 4humens.",
+      "keywords": [
+        "logo",
+        "etam",
+        "mode / lingerie",
+        "reference-client"
+      ],
+      "usage": "Slide références clients ; afficher le logo Etam dans la grille (secteur Mode / Lingerie)."
+    },
+    {
+      "id": "logo-gojob",
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/4humens/slides-assets/main/projects/propales/logo-gojob.png",
+      "filename": "logo-gojob.png",
+      "format": "png",
+      "added_date": "2026-05-15",
+      "category": "logos",
+      "client_name": "Gojob",
+      "sector": "Tech / Intérim",
+      "variant": "default",
+      "description": "Logo officiel de Gojob — utilisable dans la grille de références clients d'une propale 4humens.",
+      "keywords": [
+        "logo",
+        "gojob",
+        "tech / intérim",
+        "reference-client"
+      ],
+      "usage": "Slide références clients ; afficher le logo Gojob dans la grille (secteur Tech / Intérim)."
+    },
+    {
+      "id": "logo-groupama",
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/4humens/slides-assets/main/projects/propales/logo-groupama.png",
+      "filename": "logo-groupama.png",
+      "format": "png",
+      "added_date": "2026-05-15",
+      "category": "logos",
+      "client_name": "Groupama",
+      "sector": "Assurance",
+      "variant": "default",
+      "description": "Logo officiel de Groupama — utilisable dans la grille de références clients d'une propale 4humens.",
+      "keywords": [
+        "logo",
+        "groupama",
+        "assurance",
+        "reference-client"
+      ],
+      "usage": "Slide références clients ; afficher le logo Groupama dans la grille (secteur Assurance)."
+    },
+    {
+      "id": "logo-kiabi",
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/4humens/slides-assets/main/projects/propales/logo-kiabi.png",
+      "filename": "logo-kiabi.png",
+      "format": "png",
+      "added_date": "2026-05-15",
+      "category": "logos",
+      "client_name": "Kiabi",
+      "sector": "Mode / Retail",
+      "variant": "default",
+      "description": "Logo officiel de Kiabi — utilisable dans la grille de références clients d'une propale 4humens.",
+      "keywords": [
+        "logo",
+        "kiabi",
+        "mode / retail",
+        "reference-client"
+      ],
+      "usage": "Slide références clients ; afficher le logo Kiabi dans la grille (secteur Mode / Retail)."
+    },
+    {
+      "id": "logo-kiabi",
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/4humens/slides-assets/main/projects/propales/logo-kiabi.svg",
+      "filename": "logo-kiabi.svg",
+      "format": "svg",
+      "added_date": "2026-05-15",
+      "category": "logos",
+      "client_name": "Kiabi",
+      "sector": "Mode / Retail",
+      "variant": "default",
+      "description": "Logo officiel de Kiabi — utilisable dans la grille de références clients d'une propale 4humens.",
+      "keywords": [
+        "logo",
+        "kiabi",
+        "mode / retail",
+        "reference-client"
+      ],
+      "usage": "Slide références clients ; afficher le logo Kiabi dans la grille (secteur Mode / Retail)."
+    },
+    {
+      "id": "logo-microsoft",
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/4humens/slides-assets/main/projects/propales/logo-microsoft.png",
+      "filename": "logo-microsoft.png",
+      "format": "png",
+      "added_date": "2026-05-15",
+      "category": "logos",
+      "client_name": "Microsoft",
+      "sector": "Tech",
+      "variant": "default",
+      "description": "Logo officiel de Microsoft — utilisable dans la grille de références clients d'une propale 4humens.",
+      "keywords": [
+        "logo",
+        "microsoft",
+        "tech",
+        "reference-client"
+      ],
+      "usage": "Slide références clients ; afficher le logo Microsoft dans la grille (secteur Tech)."
+    },
+    {
+      "id": "logo-orange",
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/4humens/slides-assets/main/projects/propales/logo-orange.png",
+      "filename": "logo-orange.png",
+      "format": "png",
+      "added_date": "2026-05-15",
+      "category": "logos",
+      "client_name": "Orange",
+      "sector": "Télécom",
+      "variant": "default",
+      "description": "Logo officiel de Orange — utilisable dans la grille de références clients d'une propale 4humens.",
+      "keywords": [
+        "logo",
+        "orange",
+        "télécom",
+        "reference-client"
+      ],
+      "usage": "Slide références clients ; afficher le logo Orange dans la grille (secteur Télécom)."
+    },
+    {
+      "id": "logo-orange",
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/4humens/slides-assets/main/projects/propales/logo-orange.svg",
+      "filename": "logo-orange.svg",
+      "format": "svg",
+      "added_date": "2026-05-15",
+      "category": "logos",
+      "client_name": "Orange",
+      "sector": "Télécom",
+      "variant": "default",
+      "description": "Logo officiel de Orange — utilisable dans la grille de références clients d'une propale 4humens.",
+      "keywords": [
+        "logo",
+        "orange",
+        "télécom",
+        "reference-client"
+      ],
+      "usage": "Slide références clients ; afficher le logo Orange dans la grille (secteur Télécom)."
+    },
+    {
+      "id": "logo-publicis",
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/4humens/slides-assets/main/projects/propales/logo-publicis.png",
+      "filename": "logo-publicis.png",
+      "format": "png",
+      "added_date": "2026-05-15",
+      "category": "logos",
+      "client_name": "Publicis",
+      "sector": "Communication / Publicité",
+      "variant": "default",
+      "description": "Logo officiel de Publicis — utilisable dans la grille de références clients d'une propale 4humens.",
+      "keywords": [
+        "logo",
+        "publicis",
+        "communication / publicité",
+        "reference-client"
+      ],
+      "usage": "Slide références clients ; afficher le logo Publicis dans la grille (secteur Communication / Publicité)."
+    },
+    {
+      "id": "logo-sg",
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/4humens/slides-assets/main/projects/propales/logo-sg.png",
+      "filename": "logo-sg.png",
+      "format": "png",
+      "added_date": "2026-05-15",
+      "category": "logos",
+      "client_name": "Société Générale",
+      "sector": "Banque",
+      "variant": "default",
+      "description": "Logo officiel de Société Générale — utilisable dans la grille de références clients d'une propale 4humens.",
+      "keywords": [
+        "logo",
+        "sg",
+        "banque",
+        "reference-client"
+      ],
+      "usage": "Slide références clients ; afficher le logo Société Générale dans la grille (secteur Banque)."
+    },
+    {
+      "id": "logo-sncf",
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/4humens/slides-assets/main/projects/propales/logo-sncf.png",
+      "filename": "logo-sncf.png",
+      "format": "png",
+      "added_date": "2026-05-15",
+      "category": "logos",
+      "client_name": "SNCF",
+      "sector": "Transport",
+      "variant": "default",
+      "description": "Logo officiel de SNCF — utilisable dans la grille de références clients d'une propale 4humens.",
+      "keywords": [
+        "logo",
+        "sncf",
+        "transport",
+        "reference-client"
+      ],
+      "usage": "Slide références clients ; afficher le logo SNCF dans la grille (secteur Transport)."
+    },
+    {
+      "id": "logo-sodexo",
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/4humens/slides-assets/main/projects/propales/logo-sodexo.png",
+      "filename": "logo-sodexo.png",
+      "format": "png",
+      "added_date": "2026-05-15",
+      "category": "logos",
+      "client_name": "Sodexo",
+      "sector": "Restauration / Services",
+      "variant": "default",
+      "description": "Logo officiel de Sodexo — utilisable dans la grille de références clients d'une propale 4humens.",
+      "keywords": [
+        "logo",
+        "sodexo",
+        "restauration / services",
+        "reference-client"
+      ],
+      "usage": "Slide références clients ; afficher le logo Sodexo dans la grille (secteur Restauration / Services)."
+    },
+    {
+      "id": "logo-tf1-v2",
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/4humens/slides-assets/main/projects/propales/logo-tf1-v2.png",
+      "filename": "logo-tf1-v2.png",
+      "format": "png",
+      "added_date": "2026-05-15",
+      "category": "logos",
+      "client_name": "TF1",
+      "sector": "Média / TV",
+      "variant": "v2",
+      "description": "Logo officiel de TF1 — utilisable dans la grille de références clients d'une propale 4humens.",
+      "keywords": [
+        "logo",
+        "tf1",
+        "média / tv",
+        "reference-client"
+      ],
+      "usage": "Slide références clients ; afficher le logo TF1 dans la grille (secteur Média / TV)."
+    },
+    {
+      "id": "logo-tf1",
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/4humens/slides-assets/main/projects/propales/logo-tf1.png",
+      "filename": "logo-tf1.png",
+      "format": "png",
+      "added_date": "2026-05-15",
+      "category": "logos",
+      "client_name": "TF1",
+      "sector": "Média / TV",
+      "variant": "default",
+      "description": "Logo officiel de TF1 — utilisable dans la grille de références clients d'une propale 4humens.",
+      "keywords": [
+        "logo",
+        "tf1",
+        "média / tv",
+        "reference-client"
+      ],
+      "usage": "Slide références clients ; afficher le logo TF1 dans la grille (secteur Média / TV)."
+    },
+    {
+      "id": "logo-totalenergies",
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/4humens/slides-assets/main/projects/propales/logo-totalenergies.png",
+      "filename": "logo-totalenergies.png",
+      "format": "png",
+      "added_date": "2026-05-15",
+      "category": "logos",
+      "client_name": "Totalenergies",
+      "sector": "Énergie",
+      "variant": "default",
+      "description": "Logo officiel de Totalenergies — utilisable dans la grille de références clients d'une propale 4humens.",
+      "keywords": [
+        "logo",
+        "totalenergies",
+        "énergie",
+        "reference-client"
+      ],
+      "usage": "Slide références clients ; afficher le logo Totalenergies dans la grille (secteur Énergie)."
+    },
+    {
+      "id": "logo-totalenergies",
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/4humens/slides-assets/main/projects/propales/logo-totalenergies.svg",
+      "filename": "logo-totalenergies.svg",
+      "format": "svg",
+      "added_date": "2026-05-15",
+      "category": "logos",
+      "client_name": "Totalenergies",
+      "sector": "Énergie",
+      "variant": "default",
+      "description": "Logo officiel de Totalenergies — utilisable dans la grille de références clients d'une propale 4humens.",
+      "keywords": [
+        "logo",
+        "totalenergies",
+        "énergie",
+        "reference-client"
+      ],
+      "usage": "Slide références clients ; afficher le logo Totalenergies dans la grille (secteur Énergie)."
+    },
+    {
+      "id": "photo-atelier",
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/4humens/slides-assets/main/projects/propales/photo-atelier.jpg",
+      "filename": "photo-atelier.jpg",
+      "format": "jpg",
+      "added_date": "2026-05-15",
+      "category": "photos",
+      "subject": "atelier",
+      "description": "Photo réelle — atelier. Utilisable dans les slides de présentation 4humens (cofondateurs, atelier en action, masterclass).",
+      "keywords": [
+        "photo",
+        "atelier",
+        "4humens",
+        "presentation"
+      ],
+      "usage": "Slide présentation 4humens ou expertise — illustration humaine et terrain."
+    },
+    {
+      "id": "photo-cofondateurs",
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/4humens/slides-assets/main/projects/propales/photo-cofondateurs.jpg",
+      "filename": "photo-cofondateurs.jpg",
+      "format": "jpg",
+      "added_date": "2026-05-15",
+      "category": "photos",
+      "subject": "cofondateurs",
+      "description": "Photo réelle — cofondateurs. Utilisable dans les slides de présentation 4humens (cofondateurs, atelier en action, masterclass).",
+      "keywords": [
+        "photo",
+        "cofondateurs",
+        "4humens",
+        "presentation"
+      ],
+      "usage": "Slide présentation 4humens ou expertise — illustration humaine et terrain."
+    },
+    {
+      "id": "photo-masterclass-alt",
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/4humens/slides-assets/main/projects/propales/photo-masterclass-alt.jpg",
+      "filename": "photo-masterclass-alt.jpg",
+      "format": "jpg",
+      "added_date": "2026-05-15",
+      "category": "photos",
+      "subject": "masterclass",
+      "description": "Photo réelle — masterclass. Utilisable dans les slides de présentation 4humens (cofondateurs, atelier en action, masterclass).",
+      "keywords": [
+        "photo",
+        "masterclass",
+        "4humens",
+        "presentation"
+      ],
+      "usage": "Slide présentation 4humens ou expertise — illustration humaine et terrain."
+    },
+    {
+      "id": "photo-masterclass",
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/4humens/slides-assets/main/projects/propales/photo-masterclass.jpg",
+      "filename": "photo-masterclass.jpg",
+      "format": "jpg",
+      "added_date": "2026-05-15",
+      "category": "photos",
+      "subject": "masterclass",
+      "description": "Photo réelle — masterclass. Utilisable dans les slides de présentation 4humens (cofondateurs, atelier en action, masterclass).",
+      "keywords": [
+        "photo",
+        "masterclass",
+        "4humens",
+        "presentation"
+      ],
+      "usage": "Slide présentation 4humens ou expertise — illustration humaine et terrain."
+    }
+  ]
+}
