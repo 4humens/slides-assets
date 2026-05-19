@@ -2,7 +2,7 @@
   "project": "propales",
   "purpose": "Assets pour propales et notes de cadrage 4humens (plugin Propositions commerciales). Logos clients, photos cofondateurs/atelier/masterclass, illustration, diplôme.",
   "version": "v1.0.0",
-  "updated": "2026-05-15",
+  "updated": "2026-05-19",
   "base_url": "https://raw.githubusercontent.com/4humens/slides-assets/main/projects/propales",
   "assets": [
     {
@@ -184,12 +184,12 @@
       "url": "https://raw.githubusercontent.com/4humens/slides-assets/main/projects/propales/logo-etam.png",
       "filename": "logo-etam.png",
       "format": "png",
-      "added_date": "2026-05-15",
+      "added_date": "2026-05-19",
       "category": "logos",
       "client_name": "Etam",
       "sector": "Mode / Lingerie",
       "variant": "default",
-      "description": "Logo officiel de Etam — utilisable dans la grille de références clients d'une propale 4humens.",
+      "description": "Logo officiel de Etam — PNG fond transparent (converti depuis WebP). Utilisable dans la grille de références clients d'une propale 4humens, badge blanc en footer (noir natif) ou fond sombre via filter brightness(0) invert(1).",
       "keywords": [
         "logo",
         "etam",
@@ -902,6 +902,171 @@
         "portrait"
       ],
       "usage": "Slide présentation cofondateur — portrait noir et blanc."
+    },
+    {
+      "id": "logo-chanel",
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/4humens/slides-assets/main/projects/propales/logo-chanel.svg",
+      "filename": "logo-chanel.svg",
+      "format": "svg",
+      "added_date": "2026-05-19",
+      "category": "logos",
+      "client_name": "Chanel",
+      "sector": "Luxe / Mode",
+      "variant": "default",
+      "description": "Logo officiel de Chanel (CC entrelacés) — SVG vectoriel monochrome noir, rendu blanc via filter CSS brightness(0) invert(1) sur fond sombre. Source Wikimedia Commons.",
+      "keywords": [
+        "logo",
+        "chanel",
+        "luxe",
+        "mode",
+        "reference-client"
+      ],
+      "usage": "Slide références clients ; afficher le logo Chanel dans la grille (secteur Luxe / Mode)."
+    },
+    {
+      "id": "logo-intermarche",
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/4humens/slides-assets/main/projects/propales/logo-intermarche.svg",
+      "filename": "logo-intermarche.svg",
+      "format": "svg",
+      "added_date": "2026-05-19",
+      "category": "logos",
+      "client_name": "Intermarché",
+      "sector": "Grande distribution / Retail alimentaire",
+      "variant": "default",
+      "description": "Logo officiel de Intermarché (version 2009 classic) — SVG vectoriel multicolore, ramené à un rendu blanc monochrome via filter CSS brightness(0) invert(1) sur fond sombre. Source Wikimedia Commons.",
+      "keywords": [
+        "logo",
+        "intermarche",
+        "grande distribution",
+        "retail",
+        "alimentaire",
+        "reference-client"
+      ],
+      "usage": "Slide références clients ; afficher le logo Intermarché dans la grille (secteur Grande distribution)."
+    },
+    {
+      "id": "logo-leroy-merlin",
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/4humens/slides-assets/main/projects/propales/logo-leroy-merlin.svg",
+      "filename": "logo-leroy-merlin.svg",
+      "format": "svg",
+      "added_date": "2026-05-19",
+      "category": "logos",
+      "client_name": "Leroy Merlin",
+      "sector": "Bricolage / Distribution",
+      "variant": "default",
+      "description": "Logo officiel de Leroy Merlin (France, 1995-) — SVG vectoriel, rendu blanc via filter CSS brightness(0) invert(1) sur fond sombre. Source Wikimedia Commons.",
+      "keywords": [
+        "logo",
+        "leroy-merlin",
+        "bricolage",
+        "distribution",
+        "retail",
+        "reference-client"
+      ],
+      "usage": "Slide références clients ; afficher le logo Leroy Merlin dans la grille (secteur Bricolage / Distribution)."
+    },
+    {
+      "id": "screen-autodiag-core",
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/4humens/slides-assets/main/projects/propales/screen-autodiag-core.png",
+      "filename": "screen-autodiag-core.png",
+      "format": "png",
+      "added_date": "2026-05-19",
+      "category": "screenshots",
+      "subject": "autodiag-core",
+      "description": "Capture d'écran de l'autodiagnostic 4humens — vue principale (core) du questionnaire de maturité IA. Illustration produit pour propale.",
+      "keywords": [
+        "screenshot",
+        "autodiag",
+        "diagnostic",
+        "core",
+        "produit",
+        "4humens"
+      ],
+      "usage": "Slide diagnostic / approche — montrer l'outil autodiag en situation (vue principale)."
+    },
+    {
+      "id": "screen-autodiag-fin",
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/4humens/slides-assets/main/projects/propales/screen-autodiag-fin.png",
+      "filename": "screen-autodiag-fin.png",
+      "format": "png",
+      "added_date": "2026-05-19",
+      "category": "screenshots",
+      "subject": "autodiag-fin",
+      "description": "Capture d'écran de l'autodiagnostic 4humens — écran de fin / synthèse du questionnaire. Illustration produit pour propale.",
+      "keywords": [
+        "screenshot",
+        "autodiag",
+        "diagnostic",
+        "fin",
+        "synthese",
+        "produit",
+        "4humens"
+      ],
+      "usage": "Slide diagnostic / approche — illustrer la sortie de l'autodiag (écran final)."
+    },
+    {
+      "id": "screen-restitution-shadow",
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/4humens/slides-assets/main/projects/propales/screen-restitution-shadow.png",
+      "filename": "screen-restitution-shadow.png",
+      "format": "png",
+      "added_date": "2026-05-19",
+      "category": "screenshots",
+      "subject": "restitution-shadow",
+      "description": "Capture d'écran de la restitution 4humens — vue shadow (IA fantôme / comparaison). Illustration produit pour propale.",
+      "keywords": [
+        "screenshot",
+        "restitution",
+        "shadow",
+        "produit",
+        "4humens"
+      ],
+      "usage": "Slide restitution / livrable — montrer une vue de la restitution interactive."
+    },
+    {
+      "id": "screen-restitution-cas-usage",
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/4humens/slides-assets/main/projects/propales/screen-restitution-cas-usage.png",
+      "filename": "screen-restitution-cas-usage.png",
+      "format": "png",
+      "added_date": "2026-05-19",
+      "category": "screenshots",
+      "subject": "restitution-cas-usage",
+      "description": "Capture d'écran de la restitution 4humens — vue cas d'usage identifiés. Illustration produit pour propale.",
+      "keywords": [
+        "screenshot",
+        "restitution",
+        "cas-usage",
+        "usecase",
+        "produit",
+        "4humens"
+      ],
+      "usage": "Slide restitution / livrable — illustrer la cartographie des cas d'usage produite par le diagnostic."
+    },
+    {
+      "id": "screen-restitution-maturite",
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/4humens/slides-assets/main/projects/propales/screen-restitution-maturite.png",
+      "filename": "screen-restitution-maturite.png",
+      "format": "png",
+      "added_date": "2026-05-19",
+      "category": "screenshots",
+      "subject": "restitution-maturite",
+      "description": "Capture d'écran de la restitution 4humens — vue maturité IA / score de maturité organisationnelle. Illustration produit pour propale.",
+      "keywords": [
+        "screenshot",
+        "restitution",
+        "maturite",
+        "score",
+        "produit",
+        "4humens"
+      ],
+      "usage": "Slide restitution / livrable — illustrer le score et la cartographie de maturité IA."
     }
   ]
 }

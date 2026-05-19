@@ -1,0 +1,19 @@
+{
+  "theme": "4humens",
+  "version": "v1.0.0",
+  "assets": [
+    {
+      "id": "photo-bio-kirthigan-vijeyakumar",
+      "type": "image",
+      "category": "photos",
+      "url": "https://raw.githubusercontent.com/4humens/slides-assets/main/themes/4humens/photos/photo-bio-kirthigan-vijeyakumar.png",
+      "filename": "photo-bio-kirthigan-vijeyakumar.png",
+      "description": "Slide bio formateur Kirthigan Vijeyakumar, expert en adoption IA. Photo professionnelle en costume sur fond sombre, accompagnée de statistiques clés (8000 personnes formées, 140 interventions) et d'un bandeau de logos clients (Microsoft, L'Oréal, TF1, Best Western, Etam, Capgemini, etc.).",
+      "keywords": ["bio", "formateur", "kirthigan", "portrait", "expert-ia", "adoption-ia", "slide-bio", "logos-clients"],
+      "dimensions": {"width": 1920, "height": 1080},
+      "format": "png",
+      "usage": "Slide de présentation du formateur à insérer en position 2 ou 3 dans les supports de formation et ateliers pratiques",
+      "added_date": "2026-04-08"
+    }
+  ]
+}
