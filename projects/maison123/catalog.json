@@ -14,6 +14,19 @@
       "format": "png",
       "usage": "Slide d'introduction du formateur dans une formation ou démo IA, pour asseoir la légitimité (chiffres + références clients).",
       "added_date": "2026-06-02"
+    },
+    {
+      "id": "qr-questionnaire-attentes",
+      "type": "image",
+      "category": "misc",
+      "url": "https://raw.githubusercontent.com/4humens/slides-assets/main/projects/maison123/qr-questionnaire-attentes.png",
+      "filename": "qr-questionnaire-attentes.png",
+      "description": "QR code noir et blanc renvoyant vers le questionnaire post-session « Vos attentes pour la suite en 2 minutes ? » de la démo IA Maison 123. Motif QR carré standard sur fond blanc, destiné à être scanné depuis la slide de clôture.",
+      "keywords": ["qr-code", "questionnaire", "attentes", "cloture", "feedback", "post-session", "maison123", "demo-ia"],
+      "dimensions": {"width": 1160, "height": 1160},
+      "format": "png",
+      "usage": "Slide de clôture « Merci » de la démo IA Maison 123, à scanner pour répondre au questionnaire d'attentes pour la suite.",
+      "added_date": "2026-06-03"
     }
   ]
 }
