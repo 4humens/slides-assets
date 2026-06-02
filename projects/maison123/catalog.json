@@ -1,0 +1,19 @@
+{
+  "project": "maison123",
+  "version": "v1.0.0",
+  "assets": [
+    {
+      "id": "carte-intro-kirthigan-formateur",
+      "type": "image",
+      "category": "photos",
+      "url": "https://raw.githubusercontent.com/4humens/slides-assets/main/projects/maison123/carte-intro-kirthigan-formateur.png",
+      "filename": "carte-intro-kirthigan-formateur.png",
+      "description": "Carte de présentation du formateur Kirthigan Vijeyakumar sur fond noir : portrait à gauche, mention « Expert en adoption IA », chiffres clés (8000 personnes formées, 140 interventions) et bandeau de logos clients (Microsoft, L'Oréal, TF1, La Poste, SNCF, Capgemini, etc.).",
+      "keywords": ["photo", "portrait", "kirthigan", "formateur", "intro", "references", "logos-clients", "chiffres-cles", "maison123"],
+      "dimensions": {"width": 1920, "height": 1080},
+      "format": "png",
+      "usage": "Slide d'introduction du formateur dans une formation ou démo IA, pour asseoir la légitimité (chiffres + références clients).",
+      "added_date": "2026-06-02"
+    }
+  ]
+}
