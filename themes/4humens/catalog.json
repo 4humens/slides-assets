@@ -9,11 +9,152 @@
       "url": "https://raw.githubusercontent.com/4humens/slides-assets/main/themes/4humens/photos/photo-bio-kirthigan-vijeyakumar.png",
       "filename": "photo-bio-kirthigan-vijeyakumar.png",
       "description": "Slide bio formateur Kirthigan Vijeyakumar, expert en adoption IA. Photo professionnelle en costume sur fond sombre, accompagnée de statistiques clés (8000 personnes formées, 140 interventions) et d'un bandeau de logos clients (Microsoft, L'Oréal, TF1, Best Western, Etam, Capgemini, etc.).",
-      "keywords": ["bio", "formateur", "kirthigan", "portrait", "expert-ia", "adoption-ia", "slide-bio", "logos-clients"],
-      "dimensions": {"width": 1920, "height": 1080},
+      "keywords": [
+        "bio",
+        "formateur",
+        "kirthigan",
+        "portrait",
+        "expert-ia",
+        "adoption-ia",
+        "slide-bio",
+        "logos-clients"
+      ],
+      "dimensions": {
+        "width": 1920,
+        "height": 1080
+      },
       "format": "png",
       "usage": "Slide de présentation du formateur à insérer en position 2 ou 3 dans les supports de formation et ateliers pratiques",
       "added_date": "2026-04-08"
+    },
+    {
+      "id": "logo-microsoft-copilot",
+      "type": "image",
+      "category": "logos",
+      "url": "https://raw.githubusercontent.com/4humens/slides-assets/main/themes/4humens/logos/logo-microsoft-copilot.svg",
+      "filename": "logo-microsoft-copilot.svg",
+      "description": "Logo officiel de Microsoft Copilot : l'icône fluent en forme de ruban/fleur stylisée, en dégradé multicolore (bleu, violet, rose, vert, jaune). Fond transparent, format vectoriel SVG.",
+      "keywords": [
+        "logo",
+        "microsoft",
+        "copilot",
+        "ia-generative",
+        "assistant-ia",
+        "fluent",
+        "ruban",
+        "outil-ia"
+      ],
+      "dimensions": {
+        "width": 0,
+        "height": 0
+      },
+      "format": "svg",
+      "usage": "Identifier l'outil Microsoft Copilot dans une slide de comparaison ou de panorama d'outils IA, sur fond sombre ou clair (icône colorée sur transparent).",
+      "added_date": "2026-06-10"
+    },
+    {
+      "id": "logo-google-gemini",
+      "type": "image",
+      "category": "logos",
+      "url": "https://raw.githubusercontent.com/4humens/slides-assets/main/themes/4humens/logos/logo-google-gemini.svg",
+      "filename": "logo-google-gemini.svg",
+      "description": "Logo officiel de Google Gemini : l'icône étoile/sparkle à quatre branches en dégradé bleu-violet-rose. Version icône 2025, fond transparent, format vectoriel SVG.",
+      "keywords": [
+        "logo",
+        "google",
+        "gemini",
+        "ia-generative",
+        "sparkle",
+        "etoile",
+        "assistant-ia",
+        "outil-ia"
+      ],
+      "dimensions": {
+        "width": 512,
+        "height": 512
+      },
+      "format": "svg",
+      "usage": "Identifier l'outil Google Gemini dans une slide de comparaison ou de panorama d'outils IA, sur fond sombre ou clair (icône colorée sur transparent).",
+      "added_date": "2026-06-10"
+    },
+    {
+      "id": "logo-perplexity-blanc",
+      "type": "image",
+      "category": "logos",
+      "url": "https://raw.githubusercontent.com/4humens/slides-assets/main/themes/4humens/logos/logo-perplexity-blanc.svg",
+      "filename": "logo-perplexity-blanc.svg",
+      "description": "Logo officiel de Perplexity AI en version pour fond sombre : wordmark 'perplexity' en blanc accompagné de l'icône turquoise/teal de la marque. Fond transparent, format vectoriel SVG.",
+      "keywords": [
+        "logo",
+        "perplexity",
+        "perplexity-ai",
+        "ia-generative",
+        "recherche-ia",
+        "moteur-reponse",
+        "blanc",
+        "fond-sombre",
+        "outil-ia"
+      ],
+      "dimensions": {
+        "width": 0,
+        "height": 0
+      },
+      "format": "svg",
+      "usage": "Identifier l'outil Perplexity AI sur fond sombre dans une slide de comparaison ou de panorama d'outils IA (wordmark blanc lisible sur fond foncé).",
+      "added_date": "2026-06-10"
+    },
+    {
+      "id": "logo-claude-sunburst",
+      "type": "image",
+      "category": "logos",
+      "url": "https://raw.githubusercontent.com/4humens/slides-assets/main/themes/4humens/logos/logo-claude-sunburst.svg",
+      "filename": "logo-claude-sunburst.svg",
+      "description": "Logo symbole de Claude (Anthropic) : le sunburst/asterisque orangé caractéristique (couleur Claude #d97757) sur fond transparent. Symbole seul sans wordmark, format vectoriel SVG, lisible sur fond sombre.",
+      "keywords": [
+        "logo",
+        "claude",
+        "anthropic",
+        "ia-generative",
+        "sunburst",
+        "asterisque",
+        "symbole",
+        "orange",
+        "assistant-ia",
+        "outil-ia"
+      ],
+      "dimensions": {
+        "width": 0,
+        "height": 0
+      },
+      "format": "svg",
+      "usage": "Identifier l'outil Claude (Anthropic) dans une slide de comparaison ou de panorama d'outils IA, sur fond sombre ou clair (symbole orangé sur transparent).",
+      "added_date": "2026-06-10"
+    },
+    {
+      "id": "logo-lovable",
+      "type": "image",
+      "category": "logos",
+      "url": "https://raw.githubusercontent.com/4humens/slides-assets/main/themes/4humens/logos/logo-lovable.svg",
+      "filename": "logo-lovable.svg",
+      "description": "Logo officiel de Lovable (lovable.dev), plateforme de vibe coding : icône en dégradé multicolore (orange, bleu, rose) en forme de coeur/forme stylisée. Fond transparent, format vectoriel SVG.",
+      "keywords": [
+        "logo",
+        "lovable",
+        "lovable-dev",
+        "vibe-coding",
+        "no-code",
+        "ia-generative",
+        "developpement",
+        "startup",
+        "outil-ia"
+      ],
+      "dimensions": {
+        "width": 121,
+        "height": 122
+      },
+      "format": "svg",
+      "usage": "Identifier l'outil Lovable dans une slide de comparaison ou de panorama d'outils IA / vibe coding, sur fond sombre ou clair (icône colorée sur transparent).",
+      "added_date": "2026-06-10"
     }
   ]
 }
