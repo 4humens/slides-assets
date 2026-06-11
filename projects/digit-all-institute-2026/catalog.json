@@ -1,0 +1,32 @@
+{
+  "project": "digit-all-institute-2026",
+  "version": "v1.0.0",
+  "assets": [
+    {
+      "id": "screenshot-acceleration-day-2026-cover",
+      "type": "image",
+      "category": "screenshots",
+      "url": "https://raw.githubusercontent.com/4humens/slides-assets/main/projects/digit-all-institute-2026/screenshots/screenshot-acceleration-day-2026-cover.png",
+      "filename": "screenshot-acceleration-day-2026-cover.png",
+      "description": "Slide de couverture de l'Acceleration Day 2026 organisé par Digit'all Institute à Casablanca, le 11 juin 2026. Fond violet profond avec photo d'un pont illuminé au coucher du soleil, logo Digit'all Institute, mention 6e édition et tagline 'Master the future of AI'.",
+      "keywords": ["acceleration-day", "digit-all-institute", "cover", "casablanca", "2026", "purple", "bridge", "keynote"],
+      "dimensions": {"width": 1470, "height": 828},
+      "format": "png",
+      "usage": "Couverture ou slide de titre pour les supports liés à l'Acceleration Day 2026 de Digit'all Institute",
+      "added_date": "2026-06-11"
+    },
+    {
+      "id": "screenshot-digitall-institute-services-overview",
+      "type": "image",
+      "category": "screenshots",
+      "url": "https://raw.githubusercontent.com/4humens/slides-assets/main/projects/digit-all-institute-2026/screenshots/screenshot-digitall-institute-services-overview.png",
+      "filename": "screenshot-digitall-institute-services-overview.png",
+      "description": "Slide de présentation des services de Digit'all Institute : conseil (audit, développement sur-mesure, conduite du changement), formation (acculturation, coaching CEO), et gestion de licences. Fond blanc avec encadrés jaune/noir, chiffres clés depuis 2023 (+8000 cadres, +300 interventions, +80 organisations).",
+      "keywords": ["digit-all-institute", "services", "formation", "conseil", "licences", "overview", "chiffres-cles"],
+      "dimensions": {"width": 1470, "height": 828},
+      "format": "png",
+      "usage": "Slide de présentation du partenaire Digit'all Institute dans un support de formation ou une propale",
+      "added_date": "2026-06-11"
+    }
+  ]
+}
