@@ -1,0 +1,18 @@
+{
+  "theme": "homini",
+  "version": "v1.0.0",
+  "assets": [
+    {
+      "id": "bio-homini-partenaire-transformation-ia",
+      "type": "image",
+      "category": "misc",
+      "url": "https://raw.githubusercontent.com/4humens/slides-assets/main/themes/homini/misc/bio-homini-partenaire-transformation-ia.png",
+      "filename": "bio-homini-partenaire-transformation-ia.png",
+      "description": "Slide de crédentiels HOMINI, partenaire en transformation IA. Présente le positionnement pure-player IA générative (conseil et stratégie, formation, agents IA), les chiffres clés (personnes formées, déploiements internationaux, adoption) et les logos des grands groupes, PME et ETI accompagnés. Fond clair, mise en page institutionnelle.",
+      "keywords": ["bio", "homini", "credentials", "partenaire", "transformation-ia", "references", "logos-clients", "chiffres-cles", "pure-player", "ia-generative"],
+      "dimensions": {"width": 1440, "height": 810},
+      "format": "png",
+      "usage": "Slide pleine page de présentation HOMINI (qui sommes-nous / références), à insérer en début de deck pour asseoir la crédibilité du partenaire."
+    }
+  ]
+}
