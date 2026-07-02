@@ -1,0 +1,30 @@
+{
+  "project": "asm-dab-2026",
+  "version": "v1.0.0",
+  "assets": [
+    {
+      "id": "qr-questionnaire-asm-dab",
+      "type": "image",
+      "category": "misc",
+      "url": "https://raw.githubusercontent.com/k4humens/slides-assets/main/projects/asm-dab-2026/misc/qr-questionnaire-asm-dab.png",
+      "filename": "qr-questionnaire-asm-dab.png",
+      "description": "QR code du questionnaire de satisfaction de l'atelier AXA DAB (keynote SecureGPT). Modules noirs sur fond blanc, format carré.",
+      "keywords": [
+        "qr",
+        "questionnaire",
+        "satisfaction",
+        "feedback",
+        "atelier",
+        "axa",
+        "dab",
+        "securegpt"
+      ],
+      "dimensions": {
+        "width": 1148,
+        "height": 1148
+      },
+      "format": "png",
+      "usage": "Slide de clôture (merci) : QR à scanner pour partager son retour sur l'atelier."
+    }
+  ]
+}
