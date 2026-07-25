@@ -180,6 +180,31 @@
       "format": "jpg",
       "usage": "Fond de page pleine largeur en remplacement d'un aplat de couleur trop flashy, pour les grandes zones de fond clair",
       "added_date": "2026-07-25"
+    },
+    {
+      "id": "bg-misty-mountains-portrait",
+      "type": "image",
+      "category": "backgrounds",
+      "url": "https://raw.githubusercontent.com/4humens/slides-assets/main/themes/4humens/backgrounds/bg-misty-mountains-portrait.jpg",
+      "filename": "bg-misty-mountains-portrait.jpg",
+      "description": "Paysage de montagnes brumeuses en format portrait, premier plan de roche ambree, silhouettes bleu-vert en profondeur de champ, ciel clair. Sans personne, sans element directionnel distrayant.",
+      "keywords": [
+        "background",
+        "landscape",
+        "mountain",
+        "mist",
+        "portrait",
+        "nature",
+        "vertical",
+        "unsplash"
+      ],
+      "dimensions": {
+        "width": 1600,
+        "height": 2400
+      },
+      "format": "jpg",
+      "usage": "Fond de page A4 portrait avec filtre sombre, pour couverture ou page de citation",
+      "added_date": "2026-07-25"
     }
   ]
 }
