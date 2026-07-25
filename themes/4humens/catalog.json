@@ -155,6 +155,31 @@
       "format": "svg",
       "usage": "Identifier l'outil Lovable dans une slide de comparaison ou de panorama d'outils IA / vibe coding, sur fond sombre ou clair (icône colorée sur transparent).",
       "added_date": "2026-06-10"
+    },
+    {
+      "id": "bg-golden-hour-mountain-landscape",
+      "type": "image",
+      "category": "backgrounds",
+      "url": "https://raw.githubusercontent.com/4humens/slides-assets/main/themes/4humens/backgrounds/bg-golden-hour-mountain-landscape.jpg",
+      "filename": "bg-golden-hour-mountain-landscape.jpg",
+      "description": "Paysage de montagne au coucher du soleil, ciel dégradé du violet au bleu puis à l'orange doré, premier plan de rochers et herbes sèches. Palette naturelle compatible avec un dégradé ambre/vert/bleu.",
+      "keywords": [
+        "background",
+        "landscape",
+        "mountain",
+        "sunset",
+        "golden-hour",
+        "nature",
+        "gradient",
+        "unsplash"
+      ],
+      "dimensions": {
+        "width": 2400,
+        "height": 1600
+      },
+      "format": "jpg",
+      "usage": "Fond de page pleine largeur en remplacement d'un aplat de couleur trop flashy, pour les grandes zones de fond clair",
+      "added_date": "2026-07-25"
     }
   ]
 }
